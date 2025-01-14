@@ -1,9 +1,3 @@
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# Name : Seongeun Yu
-# SID : 1703059
-# CCID : seongeun
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
 
 # MapReduce Implementation
 
